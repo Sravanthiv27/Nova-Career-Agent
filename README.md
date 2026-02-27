@@ -1,2 +1,7 @@
-# Nova-Career-Agent
-AI-powered Job Market Navigator built with Amazon Nova &amp; AWS Bedrock
+Nova-Career-Agent/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── architecture.png
+└── sample_resume.txt
