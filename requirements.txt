@@ -1,5 +1,2 @@
 streamlit
-boto3
-scikit-learn
-pandas
-numpy
+google-generativeai
